@@ -1,24 +1,25 @@
-# E-commerce Website for Short Products
+# Sports Ecommerce Website
 
-This project is an e-commerce website tailored for the sale of short products, developed using HTML, CSS, and JavaScript.
+This project is an Ecommerce Website specifically tailored for selling sports products, built using HTML, CSS, and JavaScript.
 
 ## Overview
 
-**The E-commerce Website for Short Products provides a streamlined shopping experience, specifically designed for the sale of products with concise descriptions. It offers essential features for browsing, searching, and purchasing short items.**
+**The Sports Ecommerce Website offers a platform for users to browse and purchase a variety of sports products, including equipment, apparel, and accessories.**
 
 ## Features
 
-- **Product listings with brief descriptions**
-- **User-friendly navigation for easy browsing**
-- **Shopping cart functionality for quick checkout**
-- **Responsive design for seamless viewing on different devices**
+- **Product catalog with categories and filtering options**
+- **User authentication and registration**
+- **Shopping cart functionality for adding and managing items**
+- **Secure checkout process with payment integration**
+- **Order tracking and management for users and administrators**
 
 ## Installation
 
-**To run this project locally, follow these steps:**
+**To set up this project locally, follow these steps:**
 1. Clone the repository: `git clone https://github.com/Adityas266/Ecommerce_Website.git`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
 
-**You can use this project as a foundation for developing an e-commerce platform tailored for selling short products. Customize the design and functionality to suit the specific needs of your business.**
+**You can use this project to learn about building Ecommerce websites and implementing essential features such as product catalogs, user authentication, and payment processing. Customize the design and functionality to suit your specific requirements.**

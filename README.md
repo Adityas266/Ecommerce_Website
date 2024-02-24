@@ -20,6 +20,6 @@ This project is an Ecommerce Website specifically tailored for selling sports pr
 1. Clone the repository: `git clone https://github.com/Adityas266/Ecommerce_Website.git`
 2. Open the `index.html` file in your web browser.
 
-## Usage
+![image](https://github.com/Adityas266/Ecommerce_Website/assets/108875499/51a003f7-2fe6-4f8e-88a8-7dc583b399ab)
 
-**You can use this project to learn about building Ecommerce websites and implementing essential features such as product catalogs, user authentication, and payment processing. Customize the design and functionality to suit your specific requirements.**
+![image](https://github.com/Adityas266/Ecommerce_Website/assets/108875499/a9df7319-b403-4072-b2cb-39f5d00dfcde)

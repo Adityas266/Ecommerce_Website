@@ -1,10 +1,10 @@
 # Sports Ecommerce Website
 
-This project is an Ecommerce Website specifically tailored for selling sports products, built using HTML, CSS, and JavaScript.
+🛒 This project is an Ecommerce Website specifically tailored for selling sports products, built using HTML, CSS, and JavaScript.
 
 ## Overview
 
-**The Sports Ecommerce Website offers a platform for users to browse and purchase a variety of sports products, including equipment, apparel, and accessories.**
+🏀 **The Sports Ecommerce Website offers a platform for users to browse and purchase a variety of sports products, including equipment, apparel, and accessories.**
 
 ## Features
 
@@ -16,7 +16,7 @@ This project is an Ecommerce Website specifically tailored for selling sports pr
 
 ## Installation
 
-**To set up this project locally, follow these steps:**
+💻 **To set up this project locally, follow these steps:**
 1. Clone the repository: `git clone https://github.com/Adityas266/Ecommerce_Website.git`
 2. Open the `index.html` file in your web browser.
 
